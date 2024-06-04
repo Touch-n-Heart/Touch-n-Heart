@@ -57,104 +57,74 @@ logo:
 - 用户注册
 
 
-<div align="center">
-    <div class="image-container"> 
-        ![](img/image2.png)
-    </div>
-     <div class="image-container"> 
-        ![](img/image3.png)
-    </div>
 
-     <div class="image-container"> 
-        ![](img/image4.png)
-    </div>
+![](img/image2.png)
 
-     <div class="image-container"> 
-        ![](img/image5.png)
-    </div>
+![](img/image3.png)
 
-     <div class="image-container"> 
-        ![](img/image6.png)
-    </div>
 
-     <div class="image-container"> 
-        ![](img/image7.png)
-    </div>
-</div>
+
+![](img/image4.png)
+
+
+
+![](img/image5.png)
+
+
+
+![](img/image6.png)
+
+
+
+![](img/image7.png)
 
 
 - 领取空投
 
 
-<div align="center">
-    <div class="image-container"> 
-        ![](img/image8.png)
-    </div>
-     <div class="image-container"> 
-       ![](img/image9.png)
-    </div>
 
-     <div class="image-container"> 
-        ![](img/image10.png)
-    </div>
+![](img/image8.png)
 
-     <div class="image-container"> 
-        ![](img/image11.png)
-    </div>
-</div>
 
+![](img/image9.png)
+
+
+
+![](img/image10.png)
+
+
+
+![](img/image11.png)
 
 
 - 用户广场
 
 
 
-<div align="center">
-    <div class="image-container"> 
-        ![](img/image14.png)
-    </div>
-     <div class="image-container"> 
-       ![](img/image15.png)
-    </div>
-</div>
+![](img/image14.png)
+
+![](img/image15.png)
 
 
 
 - 用户社交
 
 
-<div align="center">
-    <div class="image-container"> 
-        ![](img/image12.png)
-    </div>
-     <div class="image-container"> 
-       ![](img/image13.png)
-    </div>
+![](img/image12.png)
 
-    <div class="image-container"> 
-        ![](img/image17.png)
-    </div>
-     <div class="image-container"> 
-       ![](img/image18.png)
-    </div>
-</div>
+![](img/image13.png)
 
+![](img/image17.png)
 
-
-
+![](img/image18.png)
 
 - 权限升级（应用商店）
 
 
-<div align="center">
-    <div class="image-container"> 
-       ![](img/image19.png)
-    </div>
-     <div class="image-container"> 
-       ![](img/image20.png)
-    </div>
-</div>
 
+![](img/image19.png)
+
+![](img/image20.png)
 
 
 
