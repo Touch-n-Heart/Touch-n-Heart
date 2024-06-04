@@ -1,0 +1,18 @@
+[submodule "submodules/touch-contract"]
+	path = submodules/touch-contract
+	url = https://github.com/Touch-n-Heart/touch-contract
+[submodule "touch-contract"]
+	path = touch-contract
+	url = git@github.com:Touch-n-Heart/touch-contract.git
+[submodule "touch-app"]
+	path = touch-app
+	url = git@github.com:Touch-n-Heart/touch-app.git
+[submodule "algorithm"]
+	path = algorithm
+	url = git@github.com:Touch-n-Heart/algorithm.git
+[submodule "front"]
+	path = front
+	url = git@github.com:Touch-n-Heart/front.git
+[submodule "Touch"]
+	path = Touch
+	url = git@github.com:Touch-n-Heart/Touch.git
